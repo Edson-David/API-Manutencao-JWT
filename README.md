@@ -1,1 +1,3 @@
-Ainda preciso aprender a implementar o JWT para bloquear a modificação do status sem ser por pessoas autorizadas.
+JWT implantado
+
+Falta dá uma organizada no código em geral e fazer um front mais bonito
