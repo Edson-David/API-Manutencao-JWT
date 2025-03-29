@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\edson\\Documents\\C#\\A Parte\\Manutencao\\wwwroot\\manutencao.html",
+      "PackagePath": "staticwebassets\\manutencao.html"
+    },
+    {
+      "Id": "C:\\Users\\edson\\Documents\\C#\\A Parte\\Manutencao\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Manutencao.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Manutencao.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Manutencao.props",
+      "PackagePath": "build\\Manutencao.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Manutencao.props",
+      "PackagePath": "buildMultiTargeting\\Manutencao.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Manutencao.props",
+      "PackagePath": "buildTransitive\\Manutencao.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

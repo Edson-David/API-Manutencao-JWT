@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "Wt4wUQCJr9InTCrsjXl1HdbZf4NYYD+3f5sbqOskfNY=",
+  "Source": "Manutencao",
+  "BasePath": "_content/Manutencao",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Manutencao\\wwwroot",
+      "Source": "Manutencao",
+      "ContentRoot": "C:\\Users\\edson\\Documents\\C#\\A Parte\\Manutencao\\wwwroot\\",
+      "BasePath": "_content/Manutencao",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
